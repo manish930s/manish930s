@@ -1,92 +1,62 @@
-# Hey there! I'm Manish Chauhan 👋 🤖
+# 👋 i'm manish.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Agentic+AI+Engineer;Multi-Agent+System+Architect;RAG+Pipeline+Specialist;Autonomous+Perception-Action+Loop+Builder" alt="Typing SVG" />
-</p>
+I build things that think for themselves. Currently, I'm obsessed with **autonomous agents**—not just chatbots, but systems that can actually *do* stuff without hand-holding. 
 
----
-
-### 🚀 About Me
-I'm a high-agency **Agentic AI Engineer** passionate about building systems that **perceive, reason, and act** independently. My focus lies in architecting multi-agent frameworks and autonomous RAG pipelines to solve complex real-world challenges.
-
-- 🔭 I’m currently working on **Autonomous Multi-Agent Orchestrators**.
-- 🌱 I’m currently learning specialized **VLM (Vision-Language Models)** and **Advanced Agentic Reasoning**.
-- 👯 I’m looking to collaborate on **Open Source Multi-Agent Frameworks**.
-- 💬 Ask me about **LangGraph, CrewAI, RAG, and LLM Observability**.
-- ⚡ Fun fact: I believe the future of AI isn't just chatting, it's **executing actions**.
+I'm an **Agentic AI Engineer** by title, but a problem-solver by nature. I spend my days (and late nights) figuring out how to make LLMs more reliable, faster, and more "active" in the real world.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🧠 stuff i'm into right now
+- **The "Action" in Perception-Action Loops**: Moving past RAG into actual tool execution.
+- **Multi-Agent Messiness**: Using LangGraph and CrewAI to orchestrate agents that don't just loop into infinity.
+- **VLM & Vision**: Teaching agents to see and understand UI/Environments.
+- **Low-Latency AI**: Because nobody likes waiting for a slow model.
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Agentic AI** | `LangGraph` `CrewAI` `AutoGen` `Multi-agent Orchestration` `Tool-Calling` `LangChain` |
-| **Generative AI** | `GPT-4o` `Claude 3.5` `RAG Pipelines` `VLM` `Hugging Face` `PyTorch` |
-| **Infrastructure** | `Pinecone` `Milvus` `Docker` `Kubernetes` `AWS` `GCP` `CI/CD` |
-| **Core Engineering**| `Python (Advanced)` `LangSmith` `RESTful APIs` `Linux/Bash` `SQL` |
+---
+
+### 🛠️ tools of the trade
+I don't just "know" these; I've broken (and fixed) most of them:
+
+- **The Brains**: LangGraph, CrewAI, AutoGen, LangChain.
+- **The Models**: Claude 3.5 (my favorite), GPT-4o, Llama 3.
+- **The Infrastructure**: Docker, Kubernetes, Pinecone, AWS/GCP.
+- **The Glue**: Python, FastAPI, SQL, Linux Bash.
+
+<br/>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,aws,gcp,azure,docker,kubernetes,linux,mysql,postgres,mongodb,git,github,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,aws,gcp,docker,kubernetes,linux,mysql,git,github,vscode" />
   </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### � recent builds
+
+#### [Autonomous RAG Orchestrator](https://github.com/manish930s/ChatBot-RAG-)
+> Most RAG systems are just fancy search engines. I built this one to be dynamic—using **LangGraph** so the agent can self-correct when its first search fails. It doesn't just give up.
+
+#### [StudyCopilot](https://manish2111.pythonanywhere.com/)
+> A personal project to solve my own problem: staying organized. It uses **Gemini 2.0 Flash** to sync with my calendar and quiz me on my actual notes (not generic AI garbage).
+
+---
+
+### � activity
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish930s&theme=tokyonight&no-bg=true&margin-w=4" alt="manish930s" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=manish930s&show_icons=true&hide_border=true&theme=transparent&text_color=4285F4" alt="Stats" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### ☕ connect
+I’m usually building something, but feel free to reach out if you want to talk about agentic workflows or the future of automation.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish930s&show_icons=true&theme=tokyonight" alt="Manish's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish930s&theme=tokyonight" alt="Manish's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish930s&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-#### 🤖 [Autonomous Multi-Agent RAG Orchestrator](https://github.com/manish930s/ChatBot-RAG-)
-> Architected a Multi-Agent System using **LangGraph** for autonomous decision-making and agent-to-agent communication. Integrated **Pinecone** for vector search and **LangSmith** for observability.
-
-#### 📊 [Netflix Data Analytics & Visualization](https://colab.research.google.com/drive/1QNyJA8P76RQhXTA8fmvS8AHk1DL6jLF7?usp=sharing)
-> Conducted EDA on 1M+ entries using **Pandas** and **SQL**, uncovering trends and identifying 30% growth in targeted content categories.
-
-#### 🌐 [Data-Driven Learning Platform](https://manish2111.pythonanywhere.com/)
-> Built a scalable ML infrastructure enabling efficient processing of 5000+ unstructured datasets with integrated SQL storage.
-
----
-
-### 🏆 Certifications
-- ☁️ **Oracle Cloud 2025 Certified Generative AI Professional**
-- 🔷 **Microsoft Certified: Azure AI Engineer Associate**
-- 🟢 **NVIDIA AI for All: Basics to Generative AI**
-- 🌟 **Google Cloud Arcade Champion**
-
----
-
-### 📫 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/manish2111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manish Chauhan" height="30" width="40" /></a>
-  <a href="mailto:manishchauhan93099@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="manishchauhan93099" height="30" width="40" /></a>
-</p>
+- **LinkedIn**: [in/manish2111](https://linkedin.com/in/manish2111)
+- **Email**: [manishchauhan93099@gmail.com](mailto:manishchauhan93099@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manish930s&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>"The best way to predict the future is to build it."</i>
+  <i>"The move from LLMs that talk to LLMs that act is the biggest shift in tech since the internet."</i>
 </p>
