@@ -49,7 +49,11 @@ Using **Pandas** and **SQL** to find the signal in the noise. I processed 1M+ da
 ### 📈 activity & stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish930s&show_icons=true&theme=tokyonight&hide_border=true" alt="Manish's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manish930s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manish's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish930s&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish930s&theme=tokyonight&hide_border=true" alt="Manish's Streak" />
 </p>
 
