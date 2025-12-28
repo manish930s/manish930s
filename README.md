@@ -46,12 +46,16 @@ Using **Pandas** and **SQL** to find the signal in the noise. I processed 1M+ da
 
 ---
 
-### 📈 activity & stats
+### � activity & stats
 
-[![Manish's Stats](https://github-readme-stats.vercel.app/api?username=manish930s&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish930s&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manish930s&show_icons=true&count_private=true&theme=react" alt="Manish's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish930s&layout=compact&theme=react" alt="Top Languages" />
+</p>
 
-[![Manish's Streak](https://streak-stats.demolab.com/?user=manish930s&theme=tokyonight)](https://github.com/dwivedi-ritik/github-readme-streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=manish930s&theme=react" alt="Manish's Streak" />
+</p>
 
 ---
 
