@@ -54,7 +54,7 @@ Using **Pandas** and **SQL** to find the signal in the noise. I processed 1M+ da
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish930s&theme=tokyonight&hide_border=true" alt="Manish's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=manish930s&theme=tokyonight&hide_border=true" alt="Manish's Streak" />
 </p>
 
 ---
